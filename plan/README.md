@@ -6,7 +6,7 @@ _Please complete all applicable._
 - **Estimated number of attendees**: 40-60
 - **Event location**: Online
 - **Event website**: https://github.com/GitHub-Campus-IITM/10-days-of-code/
-- **Event description**: Mentors and participants will be ideating and coding open source software/model/simulations in 10 days.
+- **Event description**: Mentors and participants will be ideating and coding open source software/model/simulations in 10 days. All IITM student except UG Freshies can apply as mentors. Anyone can apply as participants.
 
 ## 🙋 What is your involvement in this event? 
 _Please tick all boxes that describe how you are involved in the event._
