@@ -32,5 +32,5 @@ _When mentioning the Student Pack in an event, make sure to share your dedicated
 
 Add your event data in the URL template below:
 
-`https://education.github.com/discount_requests/student_application?utm_source=2021-12-29-10_DAYS_OF_CODE`
+`https://education.github.com/discount_requests/student_application?utm_source=2021-12-21-10_DAYS_OF_CODE`
 
