@@ -10,4 +10,4 @@ You can be the only mentor or participant. You can only join only one project wh
 ## Mentors' registration
 If you have a good project idea, apply for that project. Now if the project gets approved, you'll be the mentor of the project. Then you can take 4 participants at most and code your idea and submit it.
 If your idea doesn't get selected you can apply as a participant in other projects. But, we will try to approve most of the ideas.
-Apply here: https://docs.google.com/forms/d/e/1FAIpQLSfJuik6HOQLC9wWivMFu7Dw3qxaiUBrvHdSNzxBonkgogC0uw/viewform
+[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfJuik6HOQLC9wWivMFu7Dw3qxaiUBrvHdSNzxBonkgogC0uw/viewform)
